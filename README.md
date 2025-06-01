@@ -1,4 +1,5 @@
 # ¡Hola! Soy Juan Antonio
+Pero puedes llamarme Antony ✨
 
 ### 👨‍💻 Sobre mí
 Soy ingeniero en computación, enfocado en el desarrollo web y de software. Desde mi titulación en el año 2024, me he dedicado a pulir mis habilidades, sin limitarme a ampliar mis conocimientos en nuevas tecnologías.
